@@ -1,7 +1,7 @@
 
 # Debounce function
 
-A simple debounce function for preventing unwanted events to call Callback function e.g user clicked Buy button multiple times mistakenly and we don't want our server to process the order multiple times.
+A simple function for preventing unwanted events to call callback function e.g user clicked Buy button multiple times mistakenly and we don't want our server to process the order multiple times.
 
 # How to use
 
